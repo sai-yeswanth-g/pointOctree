@@ -16,10 +16,6 @@ A high-performance C++ library inspired by the **LidarPointCloud** plugin in Unr
 
 ---
 
-## Inspiration
-
-This project draws inspiration from the **LidarPointCloud** plugin in Unreal Engine. It adapts similar principles to create a standalone C++ library for spatial computations, making it applicable for a variety of use cases.
----
 ## Usage
 
 ### Creating an Octree
